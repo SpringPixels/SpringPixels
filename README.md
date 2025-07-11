@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joyti</h1>
+<h1 align="center">Hi 👋, I'm Spring🌸</h1>
 <h3 align="center">Like Spring, I grow, I learn, I create</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=springpixels&label=Profile%20views&color=0e75b6&style=flat" alt="springpixels" /> </p>
