@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Keras, TensorFlow, and OpenCV—building intelligent solutions one project at a time**
 
-- 💬 Ask me about **CV,DL**
+- 💬 Ask me about **CV, DL**
 
 - 📫 How to reach me **joytidas069@gmail.com**
 
