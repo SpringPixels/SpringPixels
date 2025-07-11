@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=springpixels&label=Profile%20views&color=0e75b6&style=flat" alt="springpixels" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=springpixels" alt="springpixels" /></a> </p>
 
 - 🔭 I’m currently working on **Social Media Analysis**
 
@@ -21,7 +20,6 @@
 </p>
 
 
-<p><a href="https://ko-fi.com/SpringPixels"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SpringPixels" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=springpixels&show_icons=true&locale=en&layout=compact" alt="springpixels" /></p>
 
